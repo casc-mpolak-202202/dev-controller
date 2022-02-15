@@ -26,7 +26,7 @@ groups:
     users:
     - admin
     - team-admin
-    - "mpolak-cloudbees"
+    - "mpolak-cloudbees-admin"
   roles:
   - name: administrator
     grantedAt: current
